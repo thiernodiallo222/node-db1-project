@@ -33,7 +33,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/trysql.asp
 
 - find all customers that live in London, Madrid, or Brazil. Returns 18 records.
 
-    - SELECT * FROM [Customers] WHERE City = "London" OR City = "Madrid" OR Country ="Brazil";
+    - SELECT * FROM Customers WHERE City = "London" OR City = "Madrid" OR Country ="Brazil";
 
 - add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _"Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
 
